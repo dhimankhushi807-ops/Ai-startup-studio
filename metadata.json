@@ -1,0 +1,6 @@
+{
+  "name": "AI Startup Studio",
+  "description": "Production-ready AI-powered SaaS platform transforming startup ideas into complete plans, branding, market research, business models, and launch roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
